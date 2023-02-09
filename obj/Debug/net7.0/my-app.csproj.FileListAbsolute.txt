@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\my-app\bin\Debug\net7.0\my-app.exe
+C:\Users\USER\Desktop\my-app\bin\Debug\net7.0\my-app.deps.json
+C:\Users\USER\Desktop\my-app\bin\Debug\net7.0\my-app.runtimeconfig.json
+C:\Users\USER\Desktop\my-app\bin\Debug\net7.0\my-app.dll
+C:\Users\USER\Desktop\my-app\bin\Debug\net7.0\my-app.pdb
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.AssemblyInfo.cs
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.dll
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\refint\my-app.dll
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.pdb
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\my-app.genruntimeconfig.cache
+C:\Users\USER\Desktop\my-app\obj\Debug\net7.0\ref\my-app.dll
